@@ -9,3 +9,10 @@ Answer: Data sience could be applied in multiple fields. Practically everything 
 and even if a company or feild is not explicitly using that data, it can be used to find trends
 and make improvemets to data and workflow. Data sience could be used at a bakery to find the most 
 popular dishes or in a science lab to discover trends of some focus groups.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is merging the different version of a file, but any conflicts need to first be resolved
+and creates a new commited version
+Rebasing simply rewrites and existing commit and can cause loss of progress on the file
