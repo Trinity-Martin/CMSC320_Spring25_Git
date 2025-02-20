@@ -16,3 +16,8 @@ Q3: What is the difference between Merging and Rebasing?
 Answer: Merging is merging the different version of a file, but any conflicts need to first be resolved
 and creates a new commited version
 Rebasing simply rewrites and existing commit and can cause loss of progress on the file
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to gaining a better understanding of data science, the different formulas as well as
+when and how to use them.
